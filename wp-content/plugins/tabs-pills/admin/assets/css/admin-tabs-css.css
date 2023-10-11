@@ -1,0 +1,37 @@
+.cdlzr_tabs_box{
+    padding: 10px;
+}
+.div_inner_tabsbox{
+    margin: 10px;
+    padding: 12px;
+    color:#fff;
+    background: #3a96c2;
+}
+.tp-photo img {
+    height: 201px;
+    width: 400px;
+}
+#titlediv #title{
+    margin: 7px 0px 3px;
+}
+.col-md-12.cap-style1 {
+    margin: 13px;
+    background: #23282d;
+    padding: 10px;
+    color: #d8ff00;
+    border-left: 6px solid #68a1df;
+}
+input.form-control.float-right.chk_style{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+/* .wp-editor-container{
+    display: none !important;
+} */
+.iconpicker-popover.popover.fade.bottomRight.in {
+    display: contents !important;
+}
+
+.js .tmce-active .wp-editor-area{
+    color: #000 !important;
+}
